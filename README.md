@@ -1,7 +1,6 @@
 ### Hi there, I'm Emre👋
-🔭 I’m currently working on my own projects
-🌱 I’m currently learning C / C++
-📫 How to reach me: Discord: emrekrs
+- 🌱 I’m currently learning C / C++
+- 📫 How to reach me: Discord: emrekrs
 
 <!--
 **EmreSoftware/EmreSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
