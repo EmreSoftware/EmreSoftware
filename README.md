@@ -1,6 +1,6 @@
 ### Hi there, I'm Emre👋
 - 🌱 I’m currently learning Matlab
-- 🔭 I’m currently working on my own C/C++ projects.
+- 🔭 I’m currently working on my own projects.
 - 📫 How to reach me: Discord: emrekrs
 
 <!--
