@@ -1,7 +1,7 @@
 ### Hi there, I'm Emre👋
-- 🌱 I’m currently learning Matlab
-- 🔭 I’m currently working on my own projects.
-- 📫 How to reach me: Discord: emrekrs
+- 🌱 Learning Matlab
+- 🔭 Working on a secret project.
+- 📫 You can reach me at: Discord: emrekrs
 
 <!--
 **EmreSoftware/EmreSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
