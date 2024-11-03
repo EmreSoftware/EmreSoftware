@@ -1,5 +1,5 @@
 ### Hi there, I'm Emre👋
-- 🌱 Learning Matlab
+- 🌱 Second year EEE Student
 - 🔭 Working on a secret project.
 - 📫 You can reach me at: Discord: emrekrs
 
