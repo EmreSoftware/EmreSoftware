@@ -1,7 +1,7 @@
 ### Hi there, I'm Emre👋
 - 🌱 Second year EEE Student
 - 🔭 Working on a secret project.
-- 📫 You can reach me at: emrekrs@ieee.org
+- 📫 You can reach me at: discord: emrekrs
 
 <!--
 **EmreSoftware/EmreSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
