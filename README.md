@@ -2,7 +2,8 @@
 
 🎓 Third-year Electrical & Electronics Engineering student  
 🔧 Exploring hardware, software, and everything in between  
-🚀 Currently building something exciting (shh… it’s secret for now)
+
+---
 
 <!--
 **EmreSoftware/EmreSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
