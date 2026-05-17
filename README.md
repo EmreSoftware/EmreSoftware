@@ -1,6 +1,6 @@
 ### Hey, I'm Emre 👋
 
-🎓 Third-year Electrical & Electronics Engineering student  
+🎓 Electrical & Electronics Engineering major
 🔧 Exploring hardware, software, and everything in between  
 
 ---
