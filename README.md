@@ -1,7 +1,7 @@
 ### Hey, I'm Emre 👋
 
-🎓 Electrical & Electronics Engineering major
-🔧 Exploring hardware, software, and everything in between  
+- 🎓 Electrical & Electronics Engineering major
+- 🔧 Exploring hardware, software, and everything in between  
 
 ---
 
